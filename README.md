@@ -10,7 +10,7 @@
 ![image](wyrolabs.svg)
 
 ## Tuzi (mascot)
-Tùzǐ is the Chinese word (兔子) for rabbit
+Tùzǐ (兔子) is the Chinese word for rabbit
 ![image](tuzi_circle.svg)
 
 ## Lepus constellation
